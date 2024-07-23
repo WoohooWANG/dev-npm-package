@@ -1,0 +1,16 @@
+{
+  "name": "hello-run",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "exejs": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "lib-test": "file:lib/lib-test-1.0.0.tgz"
+  }
+}
